@@ -146,4 +146,4 @@ A simple and secure forum system built with PHP, MySQL, and Bootstrap. This foru
 - `css/style.css`: Custom CSS styles for forum appearance
 
 ### DEMO
-- Link: https://nsbm365-my.sharepoint.com/:v:/g/personal/hpaiherath_students_nsbm_ac_lk/EWjc7L_uWdFEmkT2nQ2tgNYB_yg_Jna4PGcEONokyHaASA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lHco1q
+- Link: https://nsbm365-my.sharepoint.com/:v:/g/personal/hpaiherath_students_nsbm_ac_lk/ETuCToogbABPhxxS_IqvycwBvsn6EJp2ENxMTvS4u2kfyw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bMxhLF
