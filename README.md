@@ -145,18 +145,3 @@ A simple and secure forum system built with PHP, MySQL, and Bootstrap. This foru
 - `includes/footer.php`: Common footer with JavaScript includes
 - `css/style.css`: Custom CSS styles for forum appearance
 
-## Usage Tips
-
-1. Always run the database.sql script first to set up the database structure
-2. Make sure to set proper permissions on the server
-3. Keep the admin credentials secure
-4. Regularly backup the database
-5. Monitor the forum for inappropriate content
-
-## Contributing
-
-Feel free to fork this project and submit improvements through pull requests.
-
-## License
-
-This project is open-source and available for personal and commercial use. 
