@@ -145,3 +145,5 @@ A simple and secure forum system built with PHP, MySQL, and Bootstrap. This foru
 - `includes/footer.php`: Common footer with JavaScript includes
 - `css/style.css`: Custom CSS styles for forum appearance
 
+### DEMO
+- Link:https://nsbm365-my.sharepoint.com/:v:/g/personal/hpaiherath_students_nsbm_ac_lk/EWjc7L_uWdFEmkT2nQ2tgNYB_yg_Jna4PGcEONokyHaASA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lHco1q
