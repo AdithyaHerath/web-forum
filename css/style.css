@@ -41,4 +41,25 @@
 .success {
     color: #28a745;
     margin-bottom: 10px;
-} 
+}
+
+/* Hero Section Styles */
+.welcome-message h1 {
+    color: #343a40; /* Darker heading color */
+}
+
+.carousel-item img {
+    max-height: 450px; /* Limit image height */
+    object-fit: cover; /* Cover the area, cropping if needed */
+    width: 100%;
+}
+
+/* Optional: Style carousel controls for better visibility if needed */
+/*
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    padding: 10px;
+}
+*/

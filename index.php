@@ -1,6 +1,54 @@
 <?php
 require_once 'includes/header.php';
+?>
 
+<!-- Hero Section -->
+<div class="hero-section my-5">
+    <!-- Welcome Message -->
+    <div class="welcome-message bg-light p-4 mb-4 rounded-3 shadow-sm text-center">
+        <h1 class="display-5 fw-bold">Welcome to Our Forum</h1>
+        <p class="fs-5 text-muted">Join discussions, share knowledge, and explore topics.</p>
+    </div>
+
+    <!-- Image Carousel -->
+    <div id="heroCarousel" class="carousel slide shadow-sm" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner rounded-3">
+            <div class="carousel-item active">
+                <img src="images/ti.jpg" class="d-block w-100" alt="Tiger Image">
+                <!-- Optional Caption -->
+                <!-- <div class="carousel-caption d-none d-md-block">
+                    <h5>First slide label</h5>
+                    <p>Some representative placeholder content for the first slide.</p>
+                </div> -->
+            </div>
+            <div class="carousel-item">
+                <img src="images/tur.jpg" class="d-block w-100" alt="Turtle Image">
+                 <!-- Optional Caption -->
+            </div>
+            <div class="carousel-item">
+                <img src="images/wo.jpg" class="d-block w-100" alt="Wolf Image">
+                 <!-- Optional Caption -->
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#heroCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</div>
+<!-- End Hero Section -->
+
+
+<?php
 // Get all categories
 $categories_sql = "SELECT * FROM categories ORDER BY name";
 $categories_result = mysqli_query($conn, $categories_sql);
@@ -67,4 +115,4 @@ $categories_result = mysqli_query($conn, $categories_sql);
     </div>
 <?php endwhile; ?>
 
-<?php require_once 'includes/footer.php'; ?> 
+<?php require_once 'includes/footer.php'; ?>
