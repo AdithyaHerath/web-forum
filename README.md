@@ -25,6 +25,21 @@ A simple and secure forum system built with PHP, MySQL, and Bootstrap. This foru
 - Password: admin
 - Email: admin@example.com
 
+# Web Forum
+
+A simple PHP and MySQL web forum where users can create topics and reply to discussions.
+
+## Features
+- User login
+- Create and view topics
+- Reply to topics
+- Admin and category management
+
+## Tech Stack
+- PHP
+- MySQL
+- HTML and CSS
+
 ## File Structure
 
 ### Configuration Files
